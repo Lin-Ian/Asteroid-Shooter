@@ -13,5 +13,5 @@ A 2D arcade based shooting game using Python Arcade.
 OR
 
 ## Setup
-* [Download Zip File of Repository](https://github.com/Lin-Ian/Asteroid-Shooter/archive/master.zip)
+* [Download Zipped Folder of Repository](https://github.com/Lin-Ian/Asteroid-Shooter/archive/master.zip)
 * Extract files from Zipped Folder
